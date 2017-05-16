@@ -1,0 +1,3 @@
+name  : Venkatesh Sedella
+email : venkateshsedella@gmail.com
+purpose : Learning GIT and GITHUB
